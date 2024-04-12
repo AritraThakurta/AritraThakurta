@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Microservices,Github Actions,Spring WebFLux**
 
-- 🌱 I’m currently learning **Reactive Programming,Oauth,Cloud Native Coding**
+- 🌱 I’m currently learning **Reactive Programming,Oauth,Cloud Native Coding,Kubernetes**
 
 - 👯 I’m looking to collaborate on **Reactive Programming,CLoud Native Projects**
 
-- 💬 Ask me about **Spring,Spring Boot,Microservices,MongoDB**
+- 💬 Ask me about **Spring,Spring Boot,Microservices,MongoDB,Docker**
 
 - 📫 How to reach me **aritra.thakurta89@gmail.com**
 
