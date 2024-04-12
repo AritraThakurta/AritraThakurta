@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aritra Thakurta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Hi 👋, I'm Aritra Thakurta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrathakurta&label=Profile%20views&color=0e75b6&style=flat" alt="aritrathakurta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrathakurta" alt="aritrathakurta" /></a> </p>
+
 
 - 🔭 I’m currently working on **Microservices,Github Actions,Spring WebFLux**
 
@@ -16,6 +14,7 @@
 - 💬 Ask me about **Spring,Spring Boot,Microservices,MongoDB**
 
 - 📫 How to reach me **aritra.thakurta89@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
