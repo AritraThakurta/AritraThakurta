@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactive Programming,Oauth,Cloud Native Coding,Kubernetes**
 
-- 👯 I’m looking to collaborate on **Reactive Programming,CLoud Native Projects**
+- 👯 I’m looking to collaborate on **Reactive Programming,CLoud Native Projects and specially on backend projects**
 
 - 💬 Ask me about **Spring,Spring Boot,Microservices,MongoDB,Docker**
 
