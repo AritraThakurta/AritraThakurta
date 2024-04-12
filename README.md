@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritra Thakurta</h1>
-<h3 align="center">A passionate backend Developer</h3>
+<h3 align="center">A passionate backend Developer working at Tata Consultancy Services</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrathakurta&label=Profile%20views&color=0e75b6&style=flat" alt="aritrathakurta" /> </p>
 
 
-- 🔭 I’m currently working on **Microservices,Github Actions,Spring WebFLux**
+- 🔭 I’m currently working on **Microservices,Github Actions,Spring WebFLux **
 
 - 🌱 I’m currently learning **Reactive Programming,Oauth,Cloud Native Coding**
 
